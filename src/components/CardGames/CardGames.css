@@ -1,0 +1,11 @@
+.jogos {
+    background-image: url('../../assets/farcry.png');
+    width: 20vw;
+    height: 45vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    border: solid 1px rebeccapurple;
+}

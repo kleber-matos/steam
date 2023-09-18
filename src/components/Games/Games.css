@@ -1,0 +1,15 @@
+.games {
+    display: flex;
+    justify-content: center;
+}
+
+.games li:hover {
+    color: #0094FF;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #0094FF;
+}
+
+.cardgames {
+    display: flex;
+    justify-content: space-evenly;
+}
