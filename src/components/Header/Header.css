@@ -1,0 +1,28 @@
+header{
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#1B2838 ;
+    height: 8vh;
+}
+
+header li, ul, a {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    align-items: center;
+}
+
+header ul{
+    display: flex;
+    justify-content: space-evenly;
+    /* border:  solid 2px; */
+    width: 30vw;
+}
+
+header a:hover {
+    color: #0094FF;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #0094FF;
+}

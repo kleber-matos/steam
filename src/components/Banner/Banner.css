@@ -1,0 +1,8 @@
+.banner {
+    height: 60vh;
+    background-image: url('../../assets/banner.png');   
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    padding-left: 32px;
+}
